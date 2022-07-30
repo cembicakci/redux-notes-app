@@ -1,6 +1,6 @@
 ## Redux-Notes-App
 
-![AppSS](/redux-notes-app/public/ss.png)
+![AppSS](https://github.com/cembicakci/redux-notes-app/blob/master/public/ss.png?raw=true)
 
 Live: https://cembicakci.github.io/redux-notes-app/
 

@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cembicakci.github.io/redux-notes-app/static/css/main.924b54cc.css",
-    "main.js": "/cembicakci.github.io/redux-notes-app/static/js/main.8b21b515.js",
-    "index.html": "/cembicakci.github.io/redux-notes-app/index.html",
-    "main.924b54cc.css.map": "/cembicakci.github.io/redux-notes-app/static/css/main.924b54cc.css.map",
-    "main.8b21b515.js.map": "/cembicakci.github.io/redux-notes-app/static/js/main.8b21b515.js.map"
+    "main.css": "/redux-notes-app/static/css/main.924b54cc.css",
+    "main.js": "/redux-notes-app/static/js/main.8b21b515.js",
+    "index.html": "/redux-notes-app/index.html",
+    "main.924b54cc.css.map": "/redux-notes-app/static/css/main.924b54cc.css.map",
+    "main.8b21b515.js.map": "/redux-notes-app/static/js/main.8b21b515.js.map"
   },
   "entrypoints": [
     "static/css/main.924b54cc.css",
